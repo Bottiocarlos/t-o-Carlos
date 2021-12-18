@@ -1,3 +1,7 @@
 {
-"UwU": "nwn"
+	"clientID": "KUouYsZCMZKIxbyy2CBFkw==",
+	"serverToken": "1@CI+dVpqb1bwtLEjbSpMmuJ3BtRAWtTZUn+/2HaYsm0f2MpBrrdqTEfeDIAoo91eaKI8Ubg55RM/oAQ==",
+	"clientToken": "jKWTO37dufT2stsnd6cCY2Vd36jvq2eaiqfZu8D3qpE=",
+	"encKey": "RAqPhDwKLoNwkHBonTcTeRrfJEvF7ryW60qf79orUVQ=",
+	"macKey": "E8oOgi79ehX01T3oEfuXq1CedpNFIK/5tljMeAm7yQY="
 }
